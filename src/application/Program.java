@@ -43,6 +43,7 @@ public class Program {
 			System.out.println("Erro in reservation: " + e.getMessage());			
 		}
 			
+		System.out.println("Finished!");
 		
 		sc.close();
 	}
